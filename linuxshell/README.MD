@@ -6,7 +6,7 @@
 运行截图：
 ![运行截图1](../images/yyets_run1.png)
 
-**token is**: 内部值。
-**start running OK**: 表示启动成功。
-**set config OK**: 表示修改配置成功。
-**get status true**: true表示运行状态正确，false表示运行状态不正确。
+**token is**: 内部值。  
+**start running OK**: 表示启动成功。  
+**set config OK**: 表示修改配置成功。  
+**get status true**: true表示运行状态正确，false表示运行状态不正确。  
